@@ -37,6 +37,7 @@ export $CR_ARCH
 ##########################################
 # Device specific Variables [SM-G610x]
 CR_CONFG_G610X=on7xelteswa_00_defconfig
+CR_DTSFILES_G610X="exynos7870-on7xelte_swa_open_00.dtb exynos7870-on7xelte_swa_open_01.dtb exynos7870-on7xelte_swa_open_02.dtb"
 CR_VARIANT_G610X=on7xelte
 ##########################################
 
